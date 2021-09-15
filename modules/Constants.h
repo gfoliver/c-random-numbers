@@ -1,0 +1,1 @@
+extern const int NUMBERS_LOADED_END; //just declaration
